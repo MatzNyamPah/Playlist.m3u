@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="astro_ria" tvg-name="Astro Ria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Astro_Ria.png" group-title="Malaysia",Astro Ria
+https://d20r1bcaj59zvz.cloudfront.net/ASTRORiaHD/index.m3u8
+
+#EXTINF:-1 tvg-id="astro_awani" tvg-name="Astro Awani" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/6/66/Astro_Awani.png" group-title="News",Astro Awani
+https://d20r1bcaj59zvz.cloudfront.net/AstroAwani/index.m3u8
+
+#EXTINF:-1 tvg-id="tv1.my" tvg-name="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/TV1_Logo.png" group-title="Malaysia",TV1
+https://rtm-live.my/TV1/index.m3u8
+
+#EXTINF:-1 tvg-id="tv2.my" tvg-name="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/TV2_Logo.png" group-title="Malaysia",TV2
+https://rtm-live.my/TV2/index.m3u8
+
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/TV3_Malaysia_2021_Logo.png" group-title="Malaysia",TV3
+https://tv3-live.my/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="astro_sukan" tvg-name="Astro Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Astro_Arena.png" group-title="Sports",Astro Arena
+https://d20r1bcaj59zvz.cloudfront.net/AstroArena/index.m3u8
+
+#EXTINF:-1 tvg-id="astro_movies" tvg-name="Astro Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Astro_Citra.png" group-title="Movies",Astro Citra
+https://d20r1bcaj59zvz.cloudfront.net/AstroCitraHD/index.m3u8
+
+#EXTINF:-1 tvg-id="astro_drama" tvg-name="Astro Prima" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Astro_Prima.png" group-title="Drama",Astro Prima
+https://d20r1bcaj59zvz.cloudfront.net/AstroPrima/index.m3u8
