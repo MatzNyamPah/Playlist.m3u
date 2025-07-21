@@ -46,7 +46,7 @@ https://wahyu1ptv.pages.dev/AstroCitra-HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRia.png" group-title="03. Astro Go",008. AstroRia
-https://www.tvmalaysia.live/channel/ria
+http://bit.ly/astro-RIA
 
 
 
@@ -126,6 +126,12 @@ https://wahyu1ptv.pages.dev/AstroSportPlus2-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="09. Sports TV",019. AstroBadminton1
 https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
+
+
+
+-----------MOVIES CHANNEL AXN HD
+
+http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8 CINEMAX http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8 ---------------------------------------------
 
 
 
@@ -230,7 +236,6 @@ https://mifntechnology.github.io/siaranMy/radio/AsyikFm/playlist.m3u8
 
 #EXTINF:-1 group-title="radio" tvg-id="Eight FM" tvg-name="8 Fm tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8Fm.png",8Fm 
 https://mifntechnology.github.io/siaranMy/radio/8Fm/playlist.m3u8
-
 
 
 
