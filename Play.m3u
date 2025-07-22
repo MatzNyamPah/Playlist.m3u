@@ -90,6 +90,10 @@ https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
 
 
 
+#EXTINF:- tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroAwani.png" group-title="03. Astro Go", Astro Go
+https://www.livetv.my/2024/11/awani.html
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague1.png" group-title="09. Sports TV",013. AsrtoPremierLeague1
 https://wahyu1ptv.pages.dev/AstroPremierLeague1-HD.m3u8
 
@@ -121,6 +125,8 @@ https://wahyu1ptv.pages.dev/AstroSportPlus2-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="09. Sports TV",019. AstroBadminton1
 https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
+
+
 
 
 
