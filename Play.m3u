@@ -155,7 +155,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 /////////////BRUNIE////////////
 
 
-#EXTINF:-1, tvg-id="RTB SUKMAINDERA" group-title="BRUNIE" group-logo="https://telegra.ph/file/741d929076ca807229e8b.jpg",RTB SUKMAINDERA
+#EXTINF:-1, tvg-id="RTB SUKMAINDERA" group-title="BRUNIE" tvg-logo="https://telegra.ph/file/741d929076ca807229e8b.jpg",RTB SUKMAINDERA
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 
 
