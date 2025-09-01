@@ -20,17 +20,17 @@ https://www.tvmalaysia.live/channel/drama-hotpot
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/FilemMantap.png" group-title="03. Astro Go",005. FilemMantap
 https://www.tvmalaysia.live/channel/filem-mantap
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroWarna.png" group-title="03. Astro Go",006. AstroWarna
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2402/default_primary.mpd
+#EXTINF:-1   tvg-logo="https://images.unicartapp.com/image/alfioraldo/image/data/FKITjgc71570100559.png" group-title="ShareExt@ASTRO-MY",ASTRO WARNA HD
+https://nonton.site:8443/provision/pp/37335
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroCitra.png" group-title="03. Astro Go",007. AstroCitra
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRia.png" group-title="03. Astro Go",008. AstroRia
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+##EXTINF:-1   tvg-logo="https://images.unicartapp.com/image/alfioraldo/image/data/FKITjgc71570100559.png" group-title="ShareExt@ASTRO-MY",ASTRO RIA HD
+https://nonton.site:8443/provision/pp/37332
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPrima.png" group-title="03. Astro Go",009. AstroPrima
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+#EXTINF:-1   tvg-logo="https://images.unicartapp.com/image/alfioraldo/image/data/FKITjgc71570100559.png" group-title="ShareExt@ASTRO-MY",ASTRO PRIMA HD
+https://nonton.site:8443/provision/pp/37333
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroAura.png" group-title="03. Astro Go",010. AstroAura
 https://wahyu1ptv.pages.dev/AstroAura-HD.m3u8
