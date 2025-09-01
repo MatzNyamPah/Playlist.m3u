@@ -1,19 +1,19 @@
 //////////MALAYSIA////////
 
 
-#EXTINF:-1 tvg-id="Tv1" group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
+#EXTINF:-1 tvg-id="Tv1" group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png", TV1
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 
-#EXTINF:-1 tvg-id="Tv2" group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2
+#EXTINF:-1 tvg-id="Tv2" group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png", TV2
 https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 
-#EXTINF:-1 tvg-id="Tv6" group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6
+#EXTINF:-1 tvg-id="Tv6" group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png", TV6
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
-#EXTINF:-1 tvg-id="Tv3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
+#EXTINF:-1 tvg-id="Tv3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
-#EXTINF:-1 tvg-id="DidikTVKPM" group-title="MALAYSIA" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
+#EXTINF:-1 tvg-id="DidikTVKPM" group-title="MALAYSIA" tvg-logo="https://didik.tv/images/logotv2.png", DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
 https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
@@ -21,10 +21,10 @@ https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
 #EXTINF:-1 tvg-id="Tv Ikim" group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim
 https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 
-#EXTINF:-1 tvg-id="Tv Okey" group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",Okey Tv
+#EXTINF:-1 tvg-id="Tv Okey" group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png", Okey Tv
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 
-#EXTINF:-1 tvg-id="Tv9" group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
+#EXTINF:-1 tvg-id="Tv9" group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png", TV9
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 
 
@@ -37,25 +37,50 @@ https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
-#EXTINF:-1 tvg-id="AstroAwani" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="ASTRO",ASTRO AWANI
+#EXTINF:-1 tvg-id="AstroAwani" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="ASTRO", ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
-#EXTINF:-1 tvg-id="AstroArena2" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena2.png" group-title="09. Sports TV",010. AstroArena2
+#EXTINF:-1 tvg-id="AstroArena2" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena2.png" group-title="09. Sports TV", AstroArena2
 https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
 
-#EXTINF:-1 tvg-id="AstroBola1" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png" group-title="09. Sports TV",011. AstroArenaBola1
+#EXTINF:-1 tvg-id="AstroBola1" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png" group-title="09. Sports TV", AstroArenaBola1
 https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
 
-#EXTM3U
-#EXT-X-TARGETDURATION:65535
-#EXT-X-VERSION:2
-#EXTINF:65535,
-#EXTINF:-1 tvg-id="CartoonNetwork" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png",615 Cartoon Network 
-http://starshare.live:8080/live/klcPA4eZEn/pzZwu25udR/158030.ts
+#EXTINF:-1 tvg-id="Filem Mantap" group-title="ASTRO" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="131" tvg-logo="https://aqfadtv.xyz/logos/FilemMantap.png", Filem Mantap
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+
+#EXTINF:-1 tvg-id="Drama Hebat" group-title="ASTRO" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="132" tvg-logo="https://aqfadtv.xyz/logos/DramaHebat.png", Drama Hebat
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+
+#EXTINF:-1 tvg-id="Drama Hotpot" group-title="ASTRO" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="133" tvg-logo="https://aqfadtv.xyz/logos/DramaHotpot.png", Drama Hotpot
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+
+#EXTINF:-1 tvg-id="Lawak Sentral" group-title="ASTRO" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="134" tvg-logo="https://aqfadtv.xyz/logos/LawakSentral.png", Lawak Sentral
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+
+#EXTINF:-1 tvg-id="Oh My Ceria!" group-title="ASTRO" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="136" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png", Oh My Ceria!
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+
+
 
 
 ///////////CARTOON//////////
 
 
-#EXTINF:-1 tvg-id="CartoonNetwork" group-title="CARTOON" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",CartoonNetwork
+#EXTINF:-1 tvg-id="CartoonNetwork" group-title="CARTOON" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png", CartoonNetwork
 https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
