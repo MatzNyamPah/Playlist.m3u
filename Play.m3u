@@ -69,20 +69,8 @@ https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
 https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola2.png" group-title="09. Sports TV",012. AstroArenaBola2
-https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroAwani.png" group-title="03. Astro Go", Astro Awani
 https://www.tvmalaysia.live/channel/awani
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague1.png" group-title="09. Sports TV",013. AsrtoPremierLeague1
-https://wahyu1ptv.pages.dev/AstroPremierLeague1-HD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague2.png" group-title="09. Sports TV",014. AsrtoPremierLeague2
-https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="09. Sports TV",015. AstroGrandstand
@@ -91,18 +79,6 @@ https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="09. Sports TV",016. AstroFootball
 https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus1.png" group-title="09. Sports TV",017. AstroSportPlus1
-https://wahyu1ptv.pages.dev/AstroSportPlus1-HD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus2.png" group-title="09. Sports TV",018. AstroSportPlus2
-https://wahyu1ptv.pages.dev/AstroSportPlus2-HD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="09. Sports TV",019. AstroBadminton1
-https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
 
 
 #EXTINF:-1 group-title="Malaysian Variety" tvg-id="TV1" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
