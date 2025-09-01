@@ -15,6 +15,9 @@ https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
 https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
 
+#EXTINF:-1 tvg-id="Tv3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+
 
 //////////ASTRO//////////
 
