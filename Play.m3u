@@ -167,19 +167,5 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 
 
-///////////BOLLYWOOD///////////
-
-
-#EXTINF:-1 tvg-id="Bollywood Prime" group-title="BOLLYWOOD" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/BollywoodPrime.jpg",Bollywood Prime
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00877-b4unetworkeurop-bollywoodprime-dash-sooka/index.mpd
-
-
-
-///////////ANIMAL////////////
-
-
-#EXTINF:-1 tvg-id="Animal Crossing La pelicula" group-title="ANIMAL" tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Animal_Crossing_Fink_Heavy.png",Animal Crossing La pelicula
-http://ia802200.us.archive.org/26/items/Peliculas-wii/Animal%20Crossing%20La%20pelicula.mp4
-
 
 
