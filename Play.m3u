@@ -173,11 +173,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 #EXTINF:-1 tvg-id="Bollywood Prime" group-title="BOLLYWOOD" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/BollywoodPrime.jpg",Bollywood Prime
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00877-b4unetworkeurop-bollywoodprime-dash-sooka/index.mpd
 
-#EXTINF:0, group-title="BOLLYWOOD",& Pictures	
-#EXTINF:0, group-title="BOLLYWOOD",& Pictures HD
-http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-
-
 
 
 ///////////ANIMAL////////////
