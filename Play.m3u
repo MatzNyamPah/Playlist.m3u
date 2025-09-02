@@ -422,3 +422,10 @@ https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/83568846-b552-4480-a003-f7d84068aff7/0.m3u8
 
 
+
+///////////RADIO////////////
+
+#EXTINF:-1 tvg-id="KelantanFm" group-title="RADIO" tvg-logo="https://rtm-images.glueapi.io/560x0/radio-asset/KELANTAN_FM.png", KelantanFm
+https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_1080p.m3u8
+
+
