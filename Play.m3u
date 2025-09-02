@@ -105,7 +105,6 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 
 
-
 ///////////CARTOON///////////
 
 
@@ -416,10 +415,10 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
 
 
-///////////RADIO INDONESIA/////////////
+///////////BOLLYWOOD/////////////
 
-#EXTUNF:-1 tvg-id="GenFm" group-title="RADIO INDONESIA" tvg-logo="https://images.noiceid.cc/catalog/content-1614529848190.jpg",GenFm
-https://open.noice.id/catalog/f7c42e96-4ce6-4788-b81b-ffc9c43e3529
 
+#EXTINF:- tvg-id="Bollywood" group-title="BOLLYWOOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1k9sdMZ0Hef-ajnxLZIws1Dd7dRf9VYTJSlkcZlgQLpXmu9h5&s",Bollywood
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/83568846-b552-4480-a003-f7d84068aff7/0.m3u8
 
 
