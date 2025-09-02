@@ -104,20 +104,11 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd 
 
 
-
 ///////////CARTOON///////////
 
 
 #EXTINF:-1 tvg-id="CartoonNetwork" group-title="CARTOON" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png", CartoonNetwork
 https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:7
-#EXT-X-TARGETDURATION:6
-#EXTINF:6.0, tvg-id="HBO HiTS" group-title="CARTOON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQQTCQOheGWmX74JRGJUA0HKcYHZIN1a5pXqi5-ir1es9HzWzf&s", HBO HITS
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/80/video-cif-stream-1-158112597818478.m4f
-#EXTINF:6.0, tvg-id="HBO HiTS" group-title="CARTOON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQQTCQOheGWmX74JRGJUA0HKcYHZIN1a5pXqi5-ir1es9HzWzf&s", HBO HITS
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/80/video-cif-stream-1-158112597818478.m4f
 
 
 //////////INDONESIAN//////////
@@ -427,8 +418,8 @@ https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/83568846-b552-4480-a003-f7d84068aff7/0.m3u8
 
 
-
 ///////////RADIO////////////
+
 
 #EXTINF:-1 tvg-id="KelantanFm" group-title="RADIO" tvg-logo="https://rtm-images.glueapi.io/560x0/radio-asset/KELANTAN_FM.png", KelantanFm
 https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_1080p.m3u8
