@@ -407,4 +407,10 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
 
 
+///////////RADIO INDONESIA/////////////
+
+#EXTUNF:-1 tvg-id="GenFm" group-title="RADIO INDONESIA" tvg-logo="https://images.noiceid.cc/catalog/content-1614529848190.jpg",GenFm
+https://open.noice.id/catalog/f7c42e96-4ce6-4788-b81b-ffc9c43e3529
+
+
 
