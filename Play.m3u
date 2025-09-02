@@ -13,6 +13,9 @@ https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 #EXTINF:-1 tvg-id="Tv3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
+#EXTINF:-1 tvg-id="Rtm Asean" group-title="MALAYSIA" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/RTMAsean.png", Rtm Asean
+https://d25tgymtnqzu8s.cloudfront.net/main/Vry6vX/1080p.m3u8
+
 #EXTINF:-1 tvg-id="DidikTVKPM" group-title="MALAYSIA" tvg-logo="https://didik.tv/images/logotv2.png", DidikTV KPM
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
