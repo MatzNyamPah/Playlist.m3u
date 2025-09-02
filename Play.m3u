@@ -182,5 +182,15 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 
 
+///////////THAILAND//////////
+
+
+#EXTINF:0 tvg-id="Thai PBS 3" group-title="THAILAND" tvg-logo="http://program.thaipbs.or.th/images/live-cover.png" group-title="Thailand (ประเทศไทย)",  Thai PBS 3 (ไทยพีบีเอส)
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+
+
+
+
 
 
