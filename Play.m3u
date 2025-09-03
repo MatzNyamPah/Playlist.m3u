@@ -134,8 +134,30 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTINF:-1 tvg-id="CartoonNetwork" group-title="CARTOON" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png", CartoonNetwork
 https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
 
-#EXTINF:-1 tvg-id="NARUTO" group-title="Anime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC3900002PV_20250107T022155SQUARE.png", Naruto
-https://jmp2.uk/stvp-ATBC3900002PV
+
+//////////Anime//////////
+
+
+#EXTINF:-1 tvg-id="Naruto" group-title="Anime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA20000034S_20250707T234532SQUARE.png". Naruto
+https://jmp2.uk/stvp-CA20000034S
+
+#EXTINF:-1 tvg-id="Sailor Moon" group-title="Anime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2000002N3_20250623T224835SQUARE.png". Sailor Moon
+https://jmp2.uk/stvp-CA2000002N3
+
+#EXTINF:-1 tvg-id="JIt’s Anime" group-title="Anime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1100002J6_20250714T223050SQUARE.png". It’s Anime
+https://jmp2.uk/stvp-CA1100002J6
+
+#EXTINF:-1 tvg-id="Team Liquid" group-title="Anime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2400001LE_20250826T234717SQUARE.png". Team Liquid
+https://jmp2.uk/stvp-CA2400001LE
+
+#EXTINF:-1 tvg-id="BizaarTV" group-title="Anime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1700006FC_20250826T234644SQUARE.png". BizaarTV
+https://jmp2.uk/stvp-CA1700006FC
+
+#EXTINF:-1 tvg-id="Hunter x Hunter" group-title="Anime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2700001AQ_20250826T234653SQUARE.png" tvg-country="CA". Hunter x Hunter
+https://jmp2.uk/stvp-CA2700001AQ
+
+#EXTINF:-1 tvg-id="JoJo's Bizarre Adventure" group-title="Anime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2700002RF_20250826T234658SQUARE.png" tvg-country="CA". JoJo's Bizarre Adventure
+https://jmp2.uk/stvp-CA2700002RF
 
 
 //////////INDONESIAN//////////
