@@ -448,7 +448,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 ///////////RADIO////////////
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Era" group-title="RADIO" tvg-logo="https://d62zl39gesnj2.cloudfront.net/stations/era/2025/era_square_updated.png", Era
+#EXTINF:-1 tvg-id="Era" radio="true" group-title="RADIO" tvg-logo="https://d62zl39gesnj2.cloudfront.net/stations/era/2025/era_square_updated.png", Era
 https://stream.rcs.revma.com/crec9cmbv4uvv/11_46d4imlhnot002/playlist.m3u8
 
 
