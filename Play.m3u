@@ -448,22 +448,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 ///////////RADIO////////////
 
 #EXTM3U
-#EXTINF:-1 tvg-id="KelantanFm" group-title="RADIO" tvg-logo="https://rtm-images.glueapi.io/560x0/radio-asset/KELANTAN_FM.png", KelantanFm
-https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_1080p.m3u8
+#EXTINF:-1 tvg-id="Era" group-title="RADIO" tvg-logo="https://d62zl39gesnj2.cloudfront.net/stations/era/2025/era_square_updated.png", Era
+https://stream.rcs.revma.com/crec9cmbv4uvv/11_46d4imlhnot002/playlist.m3u8
 
 
 //////////MOVIES/////////
-
-#EXTM3U
-#EXTINF:- tvg-id="Gravitas Movie" group-title="MOVIES" tvg-logo="https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F87658f08-b42f-4fff-b2d6-b729fd2dae71%2FPlex_GravitasMovies_DarkBackground.png
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e/variant.m3u8
-
-#EXTM3U
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.server.com|User-Agent=Mozilla/5.0|
-#EXTINF:-1 tvg-id="HBO Family" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png"  
-https://linearjitp-playback.astro.com.my/dash.wv/linear/5052/default.ott.mpd
 
 
 
