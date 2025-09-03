@@ -447,9 +447,68 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 ///////////RADIO////////////
 
+
 #EXTM3U
-#EXTINF:-1 tvg-id="Era" radio="true" group-title="RADIO" tvg-logo="https://d62zl39gesnj2.cloudfront.net/stations/era/2025/era_square_updated.png", Era
+
+#EXTINF:-1 tvg-id="Era" radio="true" group-title="RADIO" tvg-logo="https://d62zl39gesnj2.cloudfront.net/stations/era/2025/era_square_updated.png", Era FM
 https://stream.rcs.revma.com/crec9cmbv4uvv/11_46d4imlhnot002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HotFM" radio="true" group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Hot_FM_logo.png", Hot FM
+https://stream.rcs.revma.com/hotfm/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gegar" radio="true" group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/Gegar_FM_logo.png", Gegar FM
+https://stream.rcs.revma.com/gegar/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Suria" radio="true" group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/Suria_FM_logo.png", Suria FM
+https://stream.rcs.revma.com/suria/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KelantanFM" radio="true" group-title="RADIO" tvg-logo="https://rtm-images.glueapi.io/560x0/radio-asset/KELANTAN_FM.png", Kelantan FM
+https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_128k.m3u8
+
+#EXTINF:-1 tvg-id="8FM" radio="true" group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/8FM_logo.png", 8FM
+https://stream.rcs.revma.com/8FM/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FlyFM" radio="true" group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Fly_FM_logo.png", Fly FM
+https://stream.rcs.revma.com/flyfm/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedFM" radio="true" group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/Red_FM_logo.png", Red FM
+https://stream.rcs.revma.com/redfm/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyFM" radio="true" group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/My_FM_logo.png", My FM
+https://stream.rcs.revma.com/myfm/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BestFM" radio="true" group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Best_FM_logo.png", Best FM
+https://stream.rcs.revma.com/bestfm/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LiteFM" radio="true" group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Lite_FM_logo.png", Lite FM
+https://stream.rcs.revma.com/litefm/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SinarFM" radio="true" group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Sinar_FM_logo.png", Sinar FM
+https://stream.rcs.revma.com/sinarfm/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="THR" radio="true" group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/THR_logo.png", THR
+https://stream.rcs.revma.com/thr/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraxxFM" radio="true" group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Traxx_FM_logo.png", Traxx FM
+https://stream.rcs.revma.com/traxxfm/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BernamaRadio" radio="true" group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Bernama_Radio_logo.png", Bernama Radio
+https://stream.rcs.revma.com/bernamaradio/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTM1" radio="true" group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/RTM1_logo.png", RTM1
+https://stream.rcs.revma.com/rtm1/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTM2" radio="true" group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/RTM2_logo.png", RTM2
+https://stream.rcs.revma.com/rtm2/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTM3" radio="true" group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/RTM3_logo.png", RTM3
+https://stream.rcs.revma.com/rtm3/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTM4" radio="true" group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/RTM4_logo.png", RTM4
+https://stream.rcs.revma.com/rtm4/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTM5" radio="true" group-title="RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/RTM5_logo.png", RTM5
+https://stream.rcs.revma.com/rtm5/live/playlist.m3u8
 
 
 //////////MOVIES/////////
