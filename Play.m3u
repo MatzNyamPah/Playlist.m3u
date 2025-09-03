@@ -63,6 +63,15 @@ https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 #EXTINF:-1 tvg-id="AstroAwani" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="ASTRO", ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
+#EXTINF:-1 tvg-id="Astro Rania" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRania.png
+https://wahyu1ptv.pages.dev/AstroRania-HD.m3u8
+
+#EXTINF:-1 tvg-id="Astro Aura" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroAura.png
+https://wahyu1ptv.pages.dev/AstroAura-HD.m3u8
+
+#EXTINF:-1 tvg-id="Astro Citra" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroCitra.png
+https://wahyu1ptv.pages.dev/AstroCitra-HD.m3u8
+
 #EXTINF:-1 tvg-id="AstroArena2" group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena2.png" group-title="09. Sports TV", AstroArena2
 https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
 
@@ -440,6 +449,29 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de7e0b3
 #EXTM3U
 #EXTINF:-1 tvg-id="cna" tvg-name="SINGAPORE" tvg-country="SG" tvg-language="Singapore" tvg-logo="https://i.postimg.cc/yNQP8WPq/CNA.png" group-title="News", CNA Singapore
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+
+//////////CERAMAH//////////
+
+
+#EXTINF:-1 tvg-id="Makkah" group-title="CERAMAH" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Makkah_TV.png
+https://wahyu1ptv.pages.dev/MakkahTV-HD.m3u8
+
+#EXTINF:-1 tvg-id="SurauTv" group-title="CERAMAH" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SurauTV.png
+https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
+
+#EXTINF:-1 tvg-id="Rodja Tv" group-title="CERAMAH" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png
+https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
+
+#EXTINF:-1 tvg-id="MQTV" group-title="CERAMAH" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MqTv.png
+https://wahyu1ptv.pages.dev/MQTV-HD.m3u8
+
+#EXTINF:-1 tvg-id="Wesal Tv" group-title="CERAMAH" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Wesal_TV.png
+https://wahyu1ptv.pages.dev/WesalTV-HD.m3u8
+
+#EXTINF:-1 tvg-id="Ashill Tv" group-title="CERAMAH" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AshiilTV.png
+https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
+
 
 
 
