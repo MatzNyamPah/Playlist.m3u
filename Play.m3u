@@ -56,7 +56,7 @@ https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
 
 #EXTM3U url-tvg="https://aqfadtv.xyz/epg" refresh="1440"
 
-#EXTINF:-1 tvg-logo=”astro-RIA.png” group-title=”ASTRO”,[COLOR aqua][I]ASTRO RIA[/I][/COLOR] 
+#EXTINF:-1 tvg-id="AstroRia" group-title=”ASTRO” tvg-logo=”astro-RIA.png”
 http://www.layarku.tv/media/ria.m3u8 
 
 #EXTINF:-1 tvg-id="DuniaSinema" group-title="ASTRO" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
