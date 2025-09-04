@@ -80,6 +80,22 @@ https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
 #EXTM3U
+#EXTINF:-1 tvg-id="Astro Prima" Group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png", Astro Prima
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Astro Ceria" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611_300.png", Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Hello Hd" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png", Hello Hd
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Astro Oasis" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_300.png", Astro Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
+#EXTM3U
 #EXTINF:-1 tvg-id="AstroAwani" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="ASTRO", ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
