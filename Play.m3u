@@ -398,8 +398,9 @@ https://stream.rcs.revma.com/drakdf8mtd3vv/9_1v6e884g0nk02/playlist.m3u8
 
 //////////MOVIES/////////
 
-
-
+#EXTM3U
+#EXTINF:-1 tvg-id="Movie Kingdom" group-title="MOVIES" tvg-logo="https://image.roku.com/developer_channels/prod/2e25ed9d39cb1d1712f11da7415a75478b7e960598f828f4af7aa87862d955d2.png", Movie Kingdom
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 
 //////////SINGAPORE/////////
