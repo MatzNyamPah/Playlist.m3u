@@ -392,11 +392,20 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 
 #EXTM3U
-
-#EXTINF:-1 tvg-id="Era" radio="true" group-title="RADIO" tvg-logo="https://d62zl39gesnj2.cloudfront.net/stations/era/2025/era_square_updated.png", Era FM
+#EXTINF:-1 tvg-id="EraFm" radio="true" group-title="RADIO" tvg-logo="https://d62zl39gesnj2.cloudfront.net/stations/era/2025/era_square_updated.png", Era FM
 https://stream.rcs.revma.com/crec9cmbv4uvv/11_46d4imlhnot002/playlist.m3u8
 
+EXTINF:-1 tvg-id="GegarFm" radio="true" group-title="RADIO" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/thr-kuala-lumpur.png
+https://stream.rcs.revma.com/cn0zcqsbv4uvv/10_1wzemr2pttxxa02/playlist.m3u8
 
+EXTINF:-1 tvg-id="SinarFm" radio="true" group-title="RADIO" tvg-logo=https://cdn.instant.audio/images/logos/radioonline-my/sinar.png
+https://stream.rcs.revma.com/azatk0tbv4uvv/8_z1kqe855iwnq02/playlist.m3u8
+
+EXTINF:-1 tvg-id="HitzFm" radio="true" group-title="RADIO" tvg-logo=https://cdn.instant.audio/images/logos/radioonline-my/hitz.png
+https://stream.rcs.revma.com/488kt4sbv4uvv/9_iirzj4fw8fvy02/playlist.m3u8
+
+EXTINF:-1 tvg-id="IndiaBeat" radio="true" group-title="RADIO" tvg-logo=https://media2.fishtank.my/stations/dtu/580x580-indiabeat.png
+https://stream.rcs.revma.com/hrcdg9ubv4uvv/10_gluqrkmx8mhq02/playlist.m3u8
 
 //////////MOVIES/////////
 
