@@ -413,7 +413,7 @@ https://stream.rcs.revma.com/drakdf8mtd3vv/9_1v6e884g0nk02/playlist.m3u8
 //////////SINGAPORE/////////
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Cna Singapore" group-title="SINGAPORE" tvg-logo="https://i.postimg.cc/yNQP8WPq/CNA.png" group-title="News", CNA Singapore
+#EXTINF:-1 tvg-id="Cna Singapore" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Tvs1.jpg/revision/latest/scale-to-width-down/250?cb=20120613095434" group-title="SINGAPORE" tvg-logo="https://i.postimg.cc/yNQP8WPq/CNA.png" group-title="News", CNA Singapore
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 
