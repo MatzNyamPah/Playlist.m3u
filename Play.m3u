@@ -369,7 +369,7 @@ https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
 ///////////BOLLYWOOD/////////////
 
 #EXTM3U
-#EXTINF:- tvg-id="Bollywood" group-logo="https://www.shutterstock.com/image-vector/bollywood-neon-sign-bright-signboard-600nw-1351338800.jpg" group-title="BOLLYWOOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1k9sdMZ0Hef-ajnxLZIws1Dd7dRf9VYTJSlkcZlgQLpXmu9h5&s",Bollywood
+#EXTINF:- tvg-id="Bollywood" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1JyZy95Vq4YbXuZwNug_IfoaJQGujWtnnPA&s" group-title="BOLLYWOOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1k9sdMZ0Hef-ajnxLZIws1Dd7dRf9VYTJSlkcZlgQLpXmu9h5&s",Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/83568846-b552-4480-a003-f7d84068aff7/0.m3u8
 
 
@@ -413,7 +413,7 @@ https://stream.rcs.revma.com/drakdf8mtd3vv/9_1v6e884g0nk02/playlist.m3u8
 //////////SINGAPORE/////////
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Cna Singapore" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Tvs1.jpg/revision/latest/scale-to-width-down/250?cb=20120613095434" group-title="SINGAPORE" tvg-logo="https://i.postimg.cc/yNQP8WPq/CNA.png" group-title="News", CNA Singapore
+#EXTINF:-1 tvg-id="Cna Singapore" group-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/TV_Malaysia_Singapura_logo.svg/revision/latest/scale-to-width-down/250?cb=20230202020314" group-title="SINGAPORE" tvg-logo="https://i.postimg.cc/yNQP8WPq/CNA.png" group-title="News", CNA Singapore
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 
