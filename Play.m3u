@@ -7,7 +7,7 @@
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Tv1" group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png", TV1
+#EXTINF:-1 tvg-id="Tv1" group-logo="https://c8.alamy.com/comp/2AD0T0B/vector-logo-for-malaysia-country-fridge-magnet-with-malaysian-state-flag-original-brush-typeface-for-word-malaysia-and-national-malaysian-symbol-p-2AD0T0B.jpg" group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png", TV1
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 
 #EXTM3U
@@ -72,7 +72,7 @@ https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
 /////////////SUKAN//////////
 
 #EXTM3U
-#EXTINF:-1 tvg-id="AstroArena2" group-title="SUKAN" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena2.png", AstroArena2
+#EXTINF:-1 tvg-id="AstroArena2" group-logo="https://www.mediapod.co/wp-content/uploads/2022/03/mysukan-tv-logo.jpg" group-title="SUKAN" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena2.png", AstroArena2
 https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
 
 #EXTM3U
@@ -86,7 +86,7 @@ https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
 #EXTM3U url-tvg="https://aqfadtv.xyz/epg" refresh="1440"
 
 #EXTM3U
-#EXTINF:-1 tvg-id="DuniaSinema" group-title="ASTRO" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
+#EXTINF:-1 tvg-id="DuniaSinema" group-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="ASTRO" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
@@ -134,7 +134,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="CartoonNetwork" group-title="CARTOON" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png", CartoonNetwork
+#EXTINF:-1 tvg-id="CartoonNetwork" group-logo="https://pixellogo.com/cdn/shop/products/L-547-copy_grande.png?v=1597296239" group-title="CARTOON" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png", CartoonNetwork
 https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
 
 #EXTM3U
@@ -151,7 +151,7 @@ https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/assets/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="TransTV.IPTV" tvg-name="TransTV.IPTV" group-title="INDONESIAN" tvg-logo="https://iptvsystem.my.id/img/transtv.png",TRANS TV
+#EXTINF:-1 tvg-id="TransTV.IPTV" tvg-name="TransTV.IPTV" group-logo="https://img.freepik.com/premium-vector/indonesia-flag-icon-vector-template-illustration-logo-design_942802-3307.jpg" group-title="INDONESIAN" tvg-logo="https://iptvsystem.my.id/img/transtv.png",TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
@@ -202,7 +202,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 /////////////BRUNIE////////////
 
 
-#EXTINF:-1, tvg-id="RTB SUKMAINDERA" group-title="BRUNIE" tvg-logo="https://telegra.ph/file/741d929076ca807229e8b.jpg",RTB SUKMAINDERA
+#EXTINF:-1, tvg-id="RTB SUKMAINDERA" group-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/TV_Brunei.png/revision/latest?cb=20221003033421" group-title="BRUNIE" tvg-logo="https://telegra.ph/file/741d929076ca807229e8b.jpg",RTB SUKMAINDERA
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 
 
@@ -211,7 +211,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 
 #EXTM3U url-tvg="https://akkradet.github.io/IPTV-THAI/guide.xml" refresh="3600"
 
-#EXTINF:0 tvg-id="Thai PBS 3" group-title="THAILAND" tvg-logo="http://program.thaipbs.or.th/images/live-cover.png",  Thai PBS 3 (ไทยพีบีเอส)
+#EXTINF:0 tvg-id="Thai PBS 3" group-logo="https://image.roku.com/developer_channels/prod/f59cfc6f09b05c21e71dd03ecb796a83a81c77f0b5d9ad351ddda99a7a7df51f.png" group-title="THAILAND" tvg-logo="http://program.thaipbs.or.th/images/live-cover.png",  Thai PBS 3 (ไทยพีบีเอส)
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND" tvg-id="MVTV ท้องถิ่นไทย (75).th" tvg-name="MVTV ท้องถิ่นไทย (75)" tvg-logo="https://media-mvtv.imgix.net/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png", MVTV ท้องถิ่นไทย (75)
@@ -369,7 +369,7 @@ https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
 ///////////BOLLYWOOD/////////////
 
 #EXTM3U
-#EXTINF:- tvg-id="Bollywood" group-title="BOLLYWOOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1k9sdMZ0Hef-ajnxLZIws1Dd7dRf9VYTJSlkcZlgQLpXmu9h5&s",Bollywood
+#EXTINF:- tvg-id="Bollywood" group-logo="https://www.shutterstock.com/image-vector/bollywood-neon-sign-bright-signboard-600nw-1351338800.jpg" group-title="BOLLYWOOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1k9sdMZ0Hef-ajnxLZIws1Dd7dRf9VYTJSlkcZlgQLpXmu9h5&s",Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/83568846-b552-4480-a003-f7d84068aff7/0.m3u8
 
 
@@ -377,7 +377,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="EraFm" tvg-name="EraFm" group-title="MUSIC" tvg-logo="https://d62zl39gesnj2.cloudfront.net/stations/era/2025/era_square_updated.png", Era FM
+#EXTINF:-1 tvg-id="EraFm" tvg-name="EraFm" group-logo="https://png.pngtree.com/png-vector/20250616/ourlarge/pngtree-music-logo-vector-image-free-online-download-png-image_16539843.png" group-title="MUSIC" tvg-logo="https://d62zl39gesnj2.cloudfront.net/stations/era/2025/era_square_updated.png", Era FM
 https://stream.rcs.revma.com/crec9cmbv4uvv/11_46d4imlhnot002/playlist.m3u8
 
 #EXTM3U
