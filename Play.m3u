@@ -420,14 +420,15 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 //////////CERAMAH//////////
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Jom Ngaji" group-title="CERAMAH" tvg-logo="https://aqfadtv.xyz/logos/JomNgaji.png", Jom Ngaji
+#EXTINF:-1 tvg-id="Jom Ngaji" group-title="CERAMAH" group-logo="https://haquhara.com/cdn/shop/files/Ceramah_Logo.png?v=1741721202&width=736" tvg-logo="https://aqfadtv.xyz/logos/JomNgaji.png", Jom Ngaji
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
 
-
-
+#EXTM3U
+#EXTINF:-1 tvg-id="Tv AlHijrah" group-title="CERAMAH" tvg-logo="https://img.favpng.com/6/24/15/tv-alhijrah-television-channel-malaysia-unifi-tv-png-favpng-j9LiHnDHbW686xzFeZzjwp3jB.jpg", Tv AlHijrah
+https://linearjitp-playback.astro.com.my/hls-mp4-fp/linear/1113/80/video-cif-stream-1.m3u8
 
 
 
