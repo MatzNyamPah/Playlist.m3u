@@ -85,8 +85,6 @@ https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.ott.mpd
 
 
-
-
 //////////ASTRO//////////
 
 
@@ -95,7 +93,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.ott.mpd
 #EXTM3U
 #EXTINF:-1 tvg-id="DuniaSinema" group-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="ASTRO" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="AstroAwani" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="ASTRO", ASTRO AWANI
