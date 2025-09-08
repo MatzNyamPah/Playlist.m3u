@@ -91,7 +91,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.ott.mpd
 #EXTM3U url-tvg="https://aqfadtv.xyz/epg" refresh="1440"
 
 #EXTM3U
-#EXTINF:-1 tvg-id="DuniaSinema" group-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="ASTRO" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
+#EXTINF:-1 tvg-id="DuniaSinema" tvg-name="DuniaSinema" group-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="ASTRO" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
@@ -100,35 +100,35 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Filem Mantap" group-title="ASTRO" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="131" tvg-logo="https://aqfadtv.xyz/logos/FilemMantap.png", Filem Mantap
+#EXTINF:-1 tvg-id="Filem Mantap" tvg-name="Filem Mantap" group-title="ASTRO" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="131" tvg-logo="https://aqfadtv.xyz/logos/FilemMantap.png", Filem Mantap
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Drama Hebat" group-title="ASTRO" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="132" tvg-logo="https://aqfadtv.xyz/logos/DramaHebat.png", Drama Hebat
+#EXTINF:-1 tvg-id="Drama Hebat" tvg-name="Drama Hebat" group-title="ASTRO" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="132" tvg-logo="https://aqfadtv.xyz/logos/DramaHebat.png", Drama Hebat
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Drama Hotpot" group-title="ASTRO" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="133" tvg-logo="https://aqfadtv.xyz/logos/DramaHotpot.png", Drama Hotpot
+#EXTINF:-1 tvg-id="Drama Hotspot" tvg-name="Drama Hotspot" group-title="ASTRO" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="133" tvg-logo="https://aqfadtv.xyz/logos/DramaHotpot.png", Drama Hotpot
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Lawak Sentral" group-title="ASTRO" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="134" tvg-logo="https://aqfadtv.xyz/logos/LawakSentral.png", Lawak Sentral
+#EXTINF:-1 tvg-id="Lawak Sentral" tvg-name="Lawak Sentral" group-title="ASTRO" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="134" tvg-logo="https://aqfadtv.xyz/logos/LawakSentral.png", Lawak Sentral
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Oh My Ceria!" group-title="ASTRO" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="136" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png", Oh My Ceria!
+#EXTINF:-1 tvg-id="Oh My Ceria!" tvg-name="Oh My Ceria!" group-title="ASTRO" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="136" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png", Oh My Ceria!
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
