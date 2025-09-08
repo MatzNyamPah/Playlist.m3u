@@ -142,14 +142,9 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 #EXTM3U
 #EXTINF:-1 tvg-id="CartoonNetwork" group-logo="https://pixellogo.com/cdn/shop/products/L-547-copy_grande.png?v=1597296239" group-title="CARTOON" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png", CartoonNetwork
-https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-#EXTINF:-1 tvg-id="Spongebob" group-title="CARTOON" tvg-logo="https://i.pinimg.com/736x/a3/7c/e0/a37ce0db35fcedda3f1ee29e884f2af7.jpg", Spongebob
-https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/assets/info.m3u8
-
+https://linearjitp-playback.astro.com.my/hls-mp4-fp/linear/509/80/video-cif-stream-1.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork" group-logo="https://pixellogo.com/cdn/shop/products/L-547-copy_grande.png?v=1597296239" group-title="CARTOON" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png", CartoonNetwork
+https://linearjitp-playback.astro.com.my/hls-mp4-fp/linear/509/165/video-cif-stream-6.m3u8
 
 
 //////////INDONESIAN//////////
