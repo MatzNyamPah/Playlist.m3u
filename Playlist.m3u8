@@ -414,6 +414,11 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62d1a58e5206
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="Radio Klasik" tvg-name="Radio Klasik" group-title="MUSIC" tvg-logo="https://radioonline.one/wp-content/uploads/2025/06/Radio-Klasik-radioonline.one-Official.webp", Radio Klasik
+https://stream-eu-a.rcs.revma.com/azatk0tbv4uvv/8_1uvbzcgolyyar02/playlist.m3u8
+
+
+#EXTM3U
 #EXTINF:-1 tvg-id="EraFm" tvg-name="EraFm" group-logo="https://png.pngtree.com/png-vector/20250616/ourlarge/pngtree-music-logo-vector-image-free-online-download-png-image_16539843.png" group-title="MUSIC" tvg-logo="https://d62zl39gesnj2.cloudfront.net/stations/era/2025/era_square_updated.png", Era FM
 https://stream.rcs.revma.com/crec9cmbv4uvv/11_46d4imlhnot002/playlist.m3u8
 
