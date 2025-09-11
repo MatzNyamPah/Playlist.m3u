@@ -449,7 +449,8 @@ https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 #EXTINF:-1 tvg-id="MolekFm" tvg-name="MolekFm" group-title="MUSIC" tvg-logo="https://radio-online.my/storage/radios/19268/46664/conversions/gRksROELBLwwXs7JzsZNWRi38pwt8P-metabW9sZWtmbS5wbmc=--lg.webp", MolekFm
 https://stream.rcs.revma.com/z56xa78mtd3vv/hls.m3u8
 
-
+#EXTINF:-1 tvg-id="KelantanFm" tvg-name="KelantanFm" group-title="MUSIC" tvg-logo="https://radioonline.one/wp-content/uploads/2025/06/Kelantan-FM-radioonline.one-Official.webp", Kelantan Fm
+https://playerservices.streamtheworld.com/api/livestream-redirect/KELANTAN_FMAAC_SC
 
 //////////MOVIES/////////
 
