@@ -436,6 +436,11 @@ https://stream.rcs.revma.com/drakdf8mtd3vv/9_1v6e884g0nk02/playlist.m3u8
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="MUSIC" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nurislam-title.png",RTB Nurislam
 https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-id="MolekFm" tvg-name="MolekFm" group-title="MUSIC" tvg-logo="https://radio-online.my/storage/radios/19268/46664/conversions/gRksROELBLwwXs7JzsZNWRi38pwt8P-metabW9sZWtmbS5wbmc=--lg.webp", MolekFm
+https://stream.rcs.revma.com/z56xa78mtd3vv/hls.m3u8
+
+
 
 //////////MOVIES/////////
 
