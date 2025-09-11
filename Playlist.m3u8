@@ -452,6 +452,10 @@ https://stream.rcs.revma.com/z56xa78mtd3vv/hls.m3u8
 #EXTINF:-1 tvg-id="KelantanFm" tvg-name="KelantanFm" group-title="MUSIC" tvg-logo="https://radioonline.one/wp-content/uploads/2025/06/Kelantan-FM-radioonline.one-Official.webp", Kelantan Fm
 https://playerservices.streamtheworld.com/api/livestream-redirect/KELANTAN_FMAAC_SC
 
+#EXTINF:-1 tvg-id="RockKapakFm" tvg-name="RockKapakFm" group-title="MUSIC" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/vW7pnFzDbi8fDhpxYf1zr0I1kTKS1eg89bFDgi_iUhI/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZjhhMjYzNzktYjFmMC00NDZmLTg5ODMtZDAwNzdjNTI4Mjg4L2ltYWdlLz91PTE3NDkyMjM5ODQwMDA.webp", RockKapak Fm
+https://stream.zeno.fm/q6xy0didftcvv
+
+
 //////////MOVIES/////////
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Indonesia;Movies" group-title="MOVIES" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-logo="https://pictr.com/images/2023/05/22/EMppL2.png",CINEMA WORLD
