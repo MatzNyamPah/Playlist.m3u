@@ -496,13 +496,16 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
 /////////FILEM/////////
 
+#EXTM3U
+#EXTINF:-1 tvg-id="Alien: Earth" group-title="FILEM" tvg-logo="https://donkey.to/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FyueXS3q8BtoWekcHOATFHicLl3e.jpg&w=828&q=70", Alien: Earth
+https://queenselti.me/aec19406-532e-4bfc-b64f-31722a20e08b/f_0/uwu.m3u8
 
 
 
 //////////SINGAPORE/////////
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Cna Singapore" group-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/TV_Malaysia_Singapura_logo.svg/revision/latest/scale-to-width-down/250?cb=20230202020314" group-title="SINGAPORE" tvg-logo="https://i.postimg.cc/yNQP8WPq/CNA.png" group-title="News", CNA Singapore
+#EXTINF:-1 tvg-id="CNA Singapore" group-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/TV_Malaysia_Singapura_logo.svg/revision/latest/scale-to-width-down/250?cb=20230202020314" group-title="SINGAPORE" tvg-logo="https://i.postimg.cc/yNQP8WPq/CNA.png" group-title="News", CNA Singapore
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 
