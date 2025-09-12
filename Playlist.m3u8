@@ -463,6 +463,9 @@ https://stream.zeno.fm/ep73w26nachvv
 #EXTINF:-1 tvg-id="JohorFm" tvg-name="JohorFm" group-title="MUSIC" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/johor.png", Johor Fm
 https://28153.live.streamtheworld.com/JOHOR_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=bf98b7c4-1414-4b68-9307-fcb5eb8224c4
 
+#EXTINF:-1 tvg-id="RDI JAKARTA" tvg-name="RDI JAKARTA" group-title="MUSIC" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-co-id/dangdut.png", RDI JAKARTA
+http://202.147.199.99:8000/stream/1/
+
 
 
 
