@@ -178,7 +178,7 @@ https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/mewatch/animax
-#EXTINF:-1 group-title="Anime" tvg-id="Animax" tvg-logo="https://aqfadtv.xyz/logos/Animax.png",Animax HD (Singapore Feed)
+#EXTINF:-1 group-title="CARTOON" tvg-id="Animax" tvg-logo="https://aqfadtv.xyz/logos/Animax.png",Animax HD (Singapore Feed)
 https://aqfadtv.xyz/live/mewatch/animax/index.mpd
 
 
@@ -526,23 +526,23 @@ https://queenselti.me/bb21cd52-d2dd-4148-96f2-d4334ae8b79a/f_0/uwu.m3u8
 https://queenselti.me/vxtyfo/uwu.m3u8
 
 #EXTM3U
-#EXTINF:-1 type="movie" group-title="Malay" tvg-logo="https://aqfadtv.xyz/images/MatKilau.png",Mat Kilau
+#EXTINF:-1 tvg-id="Mat Kilau group-title="FILEM" tvg-logo="https://aqfadtv.xyz/images/MatKilau.png",Mat Kilau
 https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/Mat.Kilau.2022.1080p.NF.WEB-DL.DDP2.0.x264-AqFadTV.mp4
 
 #EXTM3U
-EXTINF:-1 type="movie" group-title="Malay" tvg-logo="https://aqfadtv.xyz/images/AbangLongFadil.png",Abang Long Fadil
+EXTINF:-1 tvg-id="Abang Long Fadil" group-title="FILEM" tvg-logo="https://aqfadtv.xyz/images/AbangLongFadil.png",Abang Long Fadil
 http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/Abang.Long.Fadil.2014.1080p.mkv
 
 #EXTM3U
-#EXTINF:-1 type="movie" group-title="Malay" tvg-logo="https://aqfadtv.xyz/images/AbangLongFadil2.png",Abang Long Fadil 2
+#EXTINF:-1 tvg-id="Abang Long Fadil 2" group-title="FILEM" tvg-logo="https://aqfadtv.xyz/images/AbangLongFadil2.png",Abang Long Fadil 2
 http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/Abang.Long.Fadil.2.2017.1080p.mkv
 
 #EXTM3U
-#EXTINF:-1 type="movie" group-title="Malay" tvg-logo="https://aqfadtv.xyz/images/AbangLongFadil3.png",Abang Long Fadil 3
+#EXTINF:-1 tvg-id="Abang Long Fadil 3" group-title="FILEM" tvg-logo="https://aqfadtv.xyz/images/AbangLongFadil3.png",Abang Long Fadil 3
 http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/Abang.Long.Fadil.3.2022.1080p.AOTG.WEB-DL.H264.AAC-AqFadTV.mkv
 
 #EXTM3U
-#EXTINF:-1 type="movie" group-title="Malay" tvg-logo="https://aqfadtv.xyz/images/JerangkungDalamAlmari.png",Jerangkung Dalam Almari
+#EXTINF:-1 tvg-id="Jerangkung Dalam Almari" group-title="FILEM" tvg-logo="https://aqfadtv.xyz/images/JerangkungDalamAlmari.png",Jerangkung Dalam Almari
 https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/Jerangkung.Dalam.Almari.2022.1080p.WEB-DL.mkv
 
 
