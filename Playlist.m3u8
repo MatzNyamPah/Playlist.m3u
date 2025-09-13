@@ -173,10 +173,13 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 
-
 #EXTINF:-1 tvg-id="Baby Shark" tvg-name="Baby Shark" group-title="CARTOON" tvg-logo="https://i.imgur.com/SbBKr8L.png", Baby Shark 
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/mewatch/animax
+#EXTINF:-1 group-title="Anime" tvg-id="Animax" tvg-logo="https://aqfadtv.xyz/logos/Animax.png",Animax HD (Singapore Feed)
+https://aqfadtv.xyz/live/mewatch/animax/index.mpd
 
 
 //////////INDONESIAN//////////
