@@ -465,6 +465,9 @@ https://stream.rcs.revma.com/z56xa78mtd3vv/hls.m3u8
 #EXTINF:-1 tvg-id="KelantanFm" tvg-name="KelantanFm" group-title="MUSIC" tvg-logo="https://radioonline.one/wp-content/uploads/2025/06/Kelantan-FM-radioonline.one-Official.webp", Kelantan Fm
 https://playerservices.streamtheworld.com/api/livestream-redirect/KELANTAN_FMAAC_SC
 
+#EXTINF:-1 tvg-id="TerengganuFm" tvg-name="TerengganuFm" group-title="MUSIC" tvg-logo="https://radio-online.my/storage/radios/8427/45338/conversions/UI3FZ3zzq7lkLlOIzfZPff3AR8UaQP-metadGVyZW5nZ2FudWZtLnBuZw==--lg.webp", Terengganu Fm
+https://playerservices.streamtheworld.com/api/livestream-redirect/TERENGGANU_FMAAC.aac
+
 #EXTINF:-1 tvg-id="RockKapakFm" tvg-name="RockKapakFm" group-title="MUSIC" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/vW7pnFzDbi8fDhpxYf1zr0I1kTKS1eg89bFDgi_iUhI/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZjhhMjYzNzktYjFmMC00NDZmLTg5ODMtZDAwNzdjNTI4Mjg4L2ltYWdlLz91PTE3NDkyMjM5ODQwMDA.webp", RockKapak Fm
 https://stream.zeno.fm/q6xy0didftcvv
 
@@ -495,6 +498,8 @@ https://stream.zeno.fm/hiut6cwfoneuv
 #EXTINF:-1 tvg-id="Melayu Klasik" tvg-name="Melayu Klasik" group-title="MUSIC" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/4Q8WWByK-AKvk21VNe2o6I-mSFXXdhiKhMU1sWv_508/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRHc2OXJXLUFzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHdxODNZMVFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcwODExNTA2ODAwMA.webp", Melayu Klasik
 https://stream.zeno.fm/4s44thh7yf9uv
 
+#EXTINF:-1 tvg-id="LangkawiFm" tvg-name="LangkawiFm" group-title="MUSIC" tvg-logo="https://radio-online.my/storage/radios/19890/49300/conversions/p32mQOxhXQf0uJD0C1wqUDecQLSx6L-metabGFuZ2thd2lmbS5wbmc=--lg.webp", LangkawiFm
+https://playerservices.streamtheworld.com/api/livestream-redirect/LANGKAWI_FMAAC.aac
 
 //////////MOVIES/////////
 
