@@ -507,6 +507,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/PAHANG_FMAAC.a
 #EXTINF:-1 tvg-id="MutiaraFm" tvg-name="MutiaraFm" group-title="MUSIC" tvg-logo="https://radio-online.my/storage/radios/8431/45355/conversions/wDyID4tDByYJv0ttgOzzEDsOL97jJ1-metabXV0aWFyYWZtLnBuZw==--lg.webp", MutiaraFm
 https://playerservices.streamtheworld.com/api/livestream-redirect/MUTIARA_FMAAC.aac
 
+#EXTINF:-1 tvg-id="PerakFm" tvg-name="PerakFm" group-title="MUSIC" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/rtm-perak-fm.png", PerakFm
+https://28163.live.streamtheworld.com/PERAK_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=2e3a8987-55e8-495b-8368-46f37c37ac64
+
+#EXTINF:-1 tvg-id="KedahFm" tvg-name="KedahFm" group-title="MUSIC" tvg-logo="https://radio-online.my/storage/radios/8425/45331/conversions/lFspgC3Av0jOx8jjS8jxjBeUoGX8SH-metaa2VkYWhmbS5wbmc=--lg.webp", KedahFm
+https://playerservices.streamtheworld.com/api/livestream-redirect/KEDAH_FMAAC.aac
+
 
 //////////MOVIES/////////
 
