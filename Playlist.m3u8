@@ -501,6 +501,13 @@ https://stream.zeno.fm/4s44thh7yf9uv
 #EXTINF:-1 tvg-id="LangkawiFm" tvg-name="LangkawiFm" group-title="MUSIC" tvg-logo="https://radio-online.my/storage/radios/19890/49300/conversions/p32mQOxhXQf0uJD0C1wqUDecQLSx6L-metabGFuZ2thd2lmbS5wbmc=--lg.webp", LangkawiFm
 https://playerservices.streamtheworld.com/api/livestream-redirect/LANGKAWI_FMAAC.aac
 
+#EXTINF:-1 tvg-id="PahangFm" tvg-name="PahangFm" group-title="MUSIC" tvg-logo="https://radio-online.my/storage/radios/8428/45335/conversions/CsgQaAOUBESP5KewDbM00vaCqdXDhm-metacGFoYW5nZm0ucG5n--lg.webp", PahangFm
+https://playerservices.streamtheworld.com/api/livestream-redirect/PAHANG_FMAAC.aac
+
+#EXTINF:-1 tvg-id="MutiaraFm" tvg-name="MutiaraFm" group-title="MUSIC" tvg-logo="https://radio-online.my/storage/radios/8431/45355/conversions/wDyID4tDByYJv0ttgOzzEDsOL97jJ1-metabXV0aWFyYWZtLnBuZw==--lg.webp", MutiaraFm
+https://playerservices.streamtheworld.com/api/livestream-redirect/MUTIARA_FMAAC.aac
+
+
 //////////MOVIES/////////
 
 
