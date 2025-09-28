@@ -686,7 +686,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
 
 #EXTINF:-1 group-title="CERAMAH" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", Tv Alhijrah
-https://live.mana2.my/TvAlhijrah/index.m3u8?auth_key=1759066069-97507f7178f8402791b0380ad19f04f2-0-1a03c961df19b833cd4dfe26c99c2a44&token=1759066069-97507f7178f8402791b0380ad19f04f2-0-1a03c961df19b833cd4dfe26c99c2a44-d17dbf52a71249e481f1cbe7b97c95d2-0-49cd6da8a13daf914989e1fa6fdadfc17586589-6c330336fea54928a8d3438522b73c52-0-d63c085b77e27d8a77ae31e06e05c3730336fea54928a8d3438522b73c52-0-d63c085b77e27d8a77ae31e06e05c3730336fea54928a8d3438522b73c52-0-d63c085b77e27d8a77ae31e06e05c373
+https://live.mana2.my/TvAlhijrah/index.m3u8
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2024/12/02/xSc40U.png" group-logo="https://pictr.com/images/2024/01/03/EX2XsI.png" group-title="CERAMAH",Sunnah TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
