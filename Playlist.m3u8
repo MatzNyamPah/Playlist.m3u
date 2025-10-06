@@ -52,8 +52,11 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
 https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 
 #EXM3U
-#EXTINF:-1 tvg-id"Tvs" tvg-name"Tvs" group-title="MALAYSIA" tvg-logo="https://s.yimg.com/fz/api/res/1.2/U3p3VjZ3Ci0OPy0K1HcY_A--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7cT04MA--/https://www.bing.com/th?id=OIP.8cj1DJAh-krw7M2n_qQd6wHaDt&w=100&h=100&c=3&pid=5.1&rs=1", Tvs
-https://live-tvs.tvsarawak.my/live/tvs.m3u8
+#EXTINF:-1 tvg-id="tvs" ch-number="122" tvg-name="TVS" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/tvs.png",107 TVS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvs
 
 #EXTM3U
 #EXTINF:-1 tvg-id="Tv Okey" tvg-name="Tv Okey" group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png", Okey Tv
