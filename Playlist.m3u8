@@ -6,14 +6,14 @@ EXTM3U x-tvg-url=https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Tv1" tvg-name="Tv1" group-logo="https://c8.alamy.com/comp/2AD0T0B/vector-logo-for-malaysia-country-fridge-magnet-with-malaysian-state-flag-original-brush-typeface-for-word-malaysia-and-national-malaysian-symbol-p-2AD0T0B.jpg" group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png", TV1
+#EXTINF:-1 tvg-id="Tv1" tvg-name="Tv1" group-logo="https://c8.alamy.com/comp/2AD0T0B/vector-logo-for-malaysia-country-fridge-magnet-with-malaysian-state-flag-original-brush-typeface-for-word-malaysia-and-national-malaysian-symbol-p-2AD0T0B.jpg" group-title="MALAYSIA" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/RTM-TV1-Malaysia-Live-Streaming-310x165.webp", TV1
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Tv2" tvg-name="Tv2" group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png", TV2
+#EXTINF:-1 tvg-id="Tv2" tvg-name="Tv2" group-title="MALAYSIA" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/TV2-Live-Streaming-310x165.webp", TV2
 https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/TV3-Malaysia-Live-Streaming-310x165.webp",TV3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3bc3f0e518aed92e80a98118e5bc2c10": "5fce364fbc4499856597b19a96f44648"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
@@ -31,7 +31,7 @@ https://d25tgymtnqzu8s.cloudfront.net/main/Vry6vX/1080p.m3u8
 #EXTINF:-1 tvg-id="Aura" group-title="MALAYSIA" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg", Aura
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="TVS" tvg-name="TVS" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.png",TVS
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="TVS" tvg-name="TVS" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/TV-Sarawak-Live-Streaming-310x165.webp",TVS
 https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
 
 #EXTM3U
@@ -53,19 +53,19 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
 
 #EXTM3U
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="TVIKIM" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="TVIKIM" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/IKIM-TV-Live-Streaming-310x165.webp", TV Ikim
 https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Tv Okey" tvg-name="Tv Okey" group-title="MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png", Okey Tv
+#EXTINF:-1 tvg-id="Tv Okey" tvg-name="Tv Okey" group-title="MALAYSIA" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/Okey-TV-Live-Streaming-310x165.webp", Okey Tv
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/TV9-Live-Streaming-310x165.webp",TV9
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BERITA RTM
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/Berita-Waliyah-Live-Streaming-310x165.webp",BERITA RTM
 https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
 
 #EXTM3U
@@ -133,7 +133,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="AstroAwani" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="ASTRO", ASTRO AWANI
+#EXTINF:-1 tvg-id="AstroAwani" group-title="ASTRO" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/Astro-Awani-Live-Streaming-1-310x165.webp" group-title="ASTRO", ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
 #EXTM3U
