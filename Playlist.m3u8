@@ -73,6 +73,10 @@ https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
 
 #EXTM3U
+#EXTINF:-1 tvg-id="SelangorTV" tvg-name="Selangor TV" group-title="MALAYSIA" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/Selangor-TV-Live-Streaming-310x165.webp", Selangor TV
+https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1761665271-e7191fcf59844a9fba8a545a3e9be5c9-0-247e86dbd61109a222ac716a0277cd1a&token=1761665271-e7191fcf59844a9fba8a545a3e9be5c9-0-247e86dbd61109a222ac716a0277cd1a
+
+#EXTM3U
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="BernamaTV" tvg-name="BernamaTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png", BERNAMA
 https://mifntechnology.github.io/siaranMy/channels/Bernama/index.m3u8
 
