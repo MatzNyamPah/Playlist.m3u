@@ -24,7 +24,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Rtm Asean" group-title="MALAYSIA" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/RTMAsean.png", Rtm Asean
+#EXTINF:-1 tvg-id="Rtm Asean" group-title="MALAYSIA" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/01/RTM-Asean-Live-310x165.webp", Rtm Asean
 https://d25tgymtnqzu8s.cloudfront.net/main/Vry6vX/1080p.m3u8
 
 #EXTM3U
@@ -77,7 +77,7 @@ https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
 https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1761665271-e7191fcf59844a9fba8a545a3e9be5c9-0-247e86dbd61109a222ac716a0277cd1a&token=1761665271-e7191fcf59844a9fba8a545a3e9be5c9-0-247e86dbd61109a222ac716a0277cd1a
 
 #EXTM3U
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="BernamaTV" tvg-name="BernamaTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png", BERNAMA
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="BernamaTV" tvg-name="BernamaTV" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/01/Bernama-TV-310x165.webp", BERNAMA
 https://mifntechnology.github.io/siaranMy/channels/Bernama/index.m3u8
 
 #EXTM3U
