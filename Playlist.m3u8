@@ -319,7 +319,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 #EXTINF:-1, tvg-id="RTB SUKMAINDERA" group-title="BRUNEI" tvg-logo="https://telegra.ph/file/741d929076ca807229e8b.jpg",RTB SUKMAINDERA
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="BRUNEI" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png", RTB Aneka
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="BRUNEI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png", RTB Aneka
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
@@ -614,7 +614,7 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/1052650
 //////////SINGAPORE/////////
 
 #EXTM3U
-#EXTINF:-1 tvg-id="CNA Singapore" group-title="SINGAPORE" tvg-logo="https://i.postimg.cc/yNQP8WPq/CNA.png" group-title="News", CNA Singapore
+#EXTINF:-1 tvg-id="CNA Singapore" group-title="SINGAPORE" tvg-logo="https://i.postimg.cc/yNQP8WPq/CNA.png", CNA Singapore
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 
