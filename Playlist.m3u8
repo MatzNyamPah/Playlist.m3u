@@ -4,6 +4,8 @@ EXTM3U x-tvg-url=https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24
 
 //////////MALAYSIA////////
 
+#EXTINF:-1 tvg-id="" tvg-name="109 Awesome" tvg-logo="https://get.perfecttv.net/logo/awesome.png" group-title="MALAYSIA",109 Awesome
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts?channel=awesome
 
 #EXTM3U
 #EXTINF:-1 tvg-id="Tv1" tvg-name="Tv1" group-title="MALAYSIA" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/RTM-TV1-Malaysia-Live-Streaming-310x165.webp", TV1
@@ -104,25 +106,41 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
 
 
-/////////////SUKAN//////////
+/////////////⚽ SPORTS FHD//////////
 
-#EXTM3U
-#EXTINF:-1 tvg-id="AstroArena2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena2.png", AstroArena2
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052373
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png",801 Arena FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=6eb2578e2bf9476a92d17f5dd1d2590d:a7239ce27d1a60592f60b5c02f214331
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arenafhd|authorization=Bearer 
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arena
 
-#EXTM3U
-#EXTINF:-1 tvg-id="AstroBola1" group-title="SUKAN" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png", AstroArenaBola1
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1131941
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arena2fhd.png",802 Arena 2 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=03768503343f451faa1b1f1f3d33b463:29e3bf0c0910c77bf0fcf8b30ebcd256
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+#https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arena2fhd|authorization=Bearer 
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arena2fhd
 
-#EXTINF:-1 tvg-id="AstroArena" tvg-name="AstroArena" group-title="SUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png", Astro Arena
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052375
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/arenabola.png" group-title="⚽ SPORTS FHD",803 Arena Bola HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1
+#https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1hd
+https://get.perfecttv.net/xjwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1hd
 
-#EXTM3U
-#EXTINF:-1 tvg-id="Glory Kickboxing" group-title="SUKAN" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/02/Glory-KickBoxing-Live-Streaming-310x165.webp", Glory Kickboxing
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f/variant.m3u8?x-plex-token=Myy8WrJrA3ygaVbaFLYN&x-plex-advertising-identifier=&x-plex-client-identifier=0ad86364-7506-400b-8cc1-64465a356d69&x-plex-playback-id=p_b53446a6-0755-4a78-96bf-39dd5f35f201&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=139.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1757747416&url=0d04a1208f87d38c46644ed14393c2df-6da9ffcee9e0656113163aa6516b54353b18f6c3c18979b761050ca30fb2e68df15eac6e47794f7158c6aef18d4741f75268296c72079146bc6eaa5412b12c5d6d7b008984ba9ce9f3937f7b5b1d74feca07592280bcee282cf5d5ed4e5c1e05fdc31e3c5e910e053c8ce2ccf6d0ce1bd98b33c4d3be59b48bfd44cd92679c5b2a0b972f59b174bee76b9594d2bd514f70e5831a91cb9d0bbb3813e03a612be0
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/arenabola2.png" group-title="⚽ SPORTS FHD",804 Arena Bola 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1314914fb4f94984b7a7572a03b69f93:7ec8c4186df69a58cf640291a7c9ac7c
+#https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2hd
+https://get.perfecttv.net/xjwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2hd
 
 
 //////////ASTRO//////////
@@ -175,8 +193,8 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Astro Citra Hd" tvg-name="Astro Citra Hd" group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT662R_M_YqRdsnG6QOJapFBpJ_xj1N61so2T_IYnXTwiEouP4j9ioAvCo&s", Astro Citra Hd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="ASTRO" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/citra.png" ,121 
+#Citra KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
 #Chrome/124.0.0.0 Safari/537.36
