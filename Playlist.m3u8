@@ -82,9 +82,11 @@ https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
 https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist_b3128000_slmsa.m3u8?id=1&CMCD=cid%3D%221%22%2Cot%3Dm%2Cmp-schema%3D%22Live+Channel%22%2Csf%3Dh%2Csid%3D%22f98de37e-64fd-414d-a09b-5b8a4d0dc2c3%22%2Cmp-site%3D%22Selangor+TV%22%2Cst%3Dv%2Csu%2Cmp-user%3D0
 
 #EXTM3U
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="BernamaTV" tvg-name="BernamaTV" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/01/Bernama-TV-310x165.webp", BERNAMA
-https://mifntechnology.github.io/siaranMy/channels/Bernama/index.m3u8
-
+#EXTINF:-1 tvg-id="bernama" ch-number="502" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/bernama.png",114 Bernama
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bernama
 #EXTM3U
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
 https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
