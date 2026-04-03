@@ -94,10 +94,6 @@ http://uutvs.cc/46b9gmvm/4912
 http://uutvs.cc/46b9gmvm/4915
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbs7aVLPXcCmjIhs3mB0pN1Q92rOVRl089EFtOk--dUQ&s=10" tvg-name="Prima" group-title="siaranMy",Prima
-http://uutvs.cc/46b9gmvm/4917
-
-#EXTM3U
 #EXTINF:-1 group-title="siaranMy" tvg-id="DuniaSinema" tvg-name="DuniaSinema" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
 #KODIPROP:inputstream.adaptive.license_key={"01a17625701e4734b02aa22c8657bd6f":"975a483df422455dbc29a1d83ed6f154"}
