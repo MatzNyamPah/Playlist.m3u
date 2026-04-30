@@ -4,106 +4,11 @@ EXTM3U x-tvg-url=https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24
 
 //////////MALAYSIA////////
 
-#EXTINF:-1 tvg-id="" tvg-name="109 Awesome" tvg-logo="https://get.perfecttv.net/logo/awesome.png" group-title="MALAYSIA",109 Awesome
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts?channel=awesome
 
-#EXTM3U
-#EXTINF:-1 tvg-id="Tv1" tvg-name="Tv1" group-title="MALAYSIA" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/RTM-TV1-Malaysia-Live-Streaming-310x165.webp", TV1
-https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-id="Tv2" tvg-name="Tv2" group-title="MALAYSIA" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/TV2-Live-Streaming-310x165.webp", TV2
-https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
-
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/TV3-Malaysia-Live-Streaming-310x165.webp",TV3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3bc3f0e518aed92e80a98118e5bc2c10": "5fce364fbc4499856597b19a96f44648"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
-
-#EXTM3U
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6
-https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-id="Rtm Asean" group-title="MALAYSIA" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/01/RTM-Asean-Live-310x165.webp", Rtm Asean
-https://d25tgymtnqzu8s.cloudfront.net/main/Vry6vX/1080p.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-id="Aura" group-title="MALAYSIA" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg", Aura
-https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
-
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="TVS" tvg-name="TVS" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/TV-Sarawak-Live-Streaming-310x165.webp",TVS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvs
-
-#EXTM3U
-#EXTINF:-1 tvg-id="DidikTVKPM" group-title="MALAYSIA" tvg-logo="https://didik.tv/images/logotv2.png", DidikTV KPM
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
-https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
-
-#EXTINF:-1 tvg-id="113.unifi" group-title="MALAYSIA" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-logo="https://pictr.com/images/2024/11/08/xiD5aQ.png",SALAM HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
-
-#EXTINF:-1 tvg-id="121.unifi" group-title="MALAYSIA" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-logo="https://pictr.com/images/2024/11/06/xi9eB8.png",SIAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
-
-#EXTM3U
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="TVIKIM" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/IKIM-TV-Live-Streaming-310x165.webp", TV Ikim
-https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-id="Tv Okey" tvg-name="Tv Okey" group-title="MALAYSIA" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/Okey-TV-Live-Streaming-310x165.webp", Okey Tv
-https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/TV9-Live-Streaming-310x165.webp",TV9
-https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/Berita-Waliyah-Live-Streaming-310x165.webp",BERITA RTM
-https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",SUKAN RTM
-https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-id="SelangorTV" tvg-name="Selangor TV" group-title="MALAYSIA" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/Selangor-TV-Live-Streaming-310x165.webp", Selangor TV
-https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist_b3128000_slmsa.m3u8?id=1&CMCD=cid%3D%221%22%2Cot%3Dm%2Cmp-schema%3D%22Live+Channel%22%2Csf%3Dh%2Csid%3D%22f98de37e-64fd-414d-a09b-5b8a4d0dc2c3%22%2Cmp-site%3D%22Selangor+TV%22%2Cst%3Dv%2Csu%2Cmp-user%3D0
-
-#EXTM3U
-#EXTINF:-1 tvg-id="bernama" ch-number="502" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/bernama.png",114 Bernama
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bernama
-#EXTM3U
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
-https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara
-https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
 
 
 ///////////CHINA///////////
-
-
-#EXTINF:-1 group-title="CHINA" tvg-id="iQIYI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",IQIYI
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
 
 
@@ -124,58 +29,11 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png",801 Arena FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=6eb2578e2bf9476a92d17f5dd1d2590d:a7239ce27d1a60592f60b5c02f214331
-#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-#https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arenafhd|authorization=Bearer 
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arena
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arena2fhd.png",802 Arena 2 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=03768503343f451faa1b1f1f3d33b463:29e3bf0c0910c77bf0fcf8b30ebcd256
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-#https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arena2fhd|authorization=Bearer 
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arena2fhd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/arenabola.png" group-title="⚽ SPORTS FHD",803 Arena Bola HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1
-#https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1hd
-https://get.perfecttv.net/xjwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1hd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/arenabola2.png" group-title="⚽ SPORTS FHD",804 Arena Bola 2 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1314914fb4f94984b7a7572a03b69f93:7ec8c4186df69a58cf640291a7c9ac7c
-#https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2hd
-https://get.perfecttv.net/xjwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2hd
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽ SPORTS FHD"  tvg-logo="https://get.perfecttv.net/logo/premierleague.png",805 EPL HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1090bef3275b45d188200b828fe30527:43eff6a8da896a34056f339ec9562045
-https://get.perfecttv.net/xjwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1hd
-
-
 
 //////////ASTRO//////////
 
 
 #EXTM3U url-tvg="https://aqfadtv.xyz/epg" refresh="1440"
-
-#EXTM3U
-#EXTINF:-1 tvg-id="DuniaSinema" tvg-name="DuniaSinema" group-title="ASTRO" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="AstroAwani" group-title="ASTRO" tvg-logo="https://tvmalaysia.me/wp-content/uploads/2025/04/Astro-Awani-Live-Streaming-1-310x165.webp" group-title="ASTRO", ASTRO AWANI
@@ -215,37 +73,6 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
-
-#EXTM3U
-#EXTINF:-1 tvg-id="Astro Rania Hd" tvg-name="Astro Rania Hd" group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcrDa0nNeliP9UDaCWhWNYt_6CB36ATZbIGPBOfTOV2A&s=10", Astro Rania Hd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=rania
-
-#EXTM3U
-#EXTINF:-1 tvg-id="Astro Oasis FHd" tvg-name="Astro Oasis FHd" group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdzMomXZthzabmsCXfJWN-x6s0EJobu81wDTC_n9Idbw&s=10", Astro Oasis FHd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=oasis
-
-#EXTM3U
-#EXTINF:-1 tvg-id="Astro Aura FHd" tvg-name="Astro Aura FHd" group-title="ASTRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwF8TKW85x-FFHCmgSoHR-YJnMwZ_4aZUZLGmKd7Dbrg&s=10", Astro Aura FHd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=aura
-
-#EXTINF:-1 tvg-id="" tvg-name="121 Citra(B)" tvg-logo="https://get.perfecttv.net/logo/citra.png" group-title="ASTRO",121 Citra(B)
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts?channel=citra
-
-#EXTINF:-1 group-logo="" group-title="ASTRO" tvg-id="611.astro" tvg-logo="https://get.perfecttv.net/logo/ceria2.png" group-logo="" ,205 Ceria
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
-https://get.perfecttv.net/1080ceria.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ceria|User-Agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.366
-
-
 
 
 ///////////CARTOON///////////
